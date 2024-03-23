@@ -1,3 +1,6 @@
+# Note that the result of the identification is the same for all lags and exposure variables, for this reason here we include
+# only the identification for lag = 0 and exposure variable air temperature
+
 library(ggdag)
 library(dagitty)
 library(lavaan)
